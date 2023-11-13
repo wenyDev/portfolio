@@ -1,7 +1,5 @@
-# Yi Wen Chen
-
-## Job Objective
-Self-motivated incoming Master Computer Science student looking for an entry-level Software Engineer or Front-end Engineer 2024 summer intern role, graduating in May, 2025.
+## About me
+Hello! My name is Yiwen, and I’m thrilled at the opportunity to connect with like-minded individuals. I am currently pursuing Masters in Computer Science at University of Wisconsin-Madison. I am broadly interested in Cloud database, software engineering, and back-end. I am actively looking for Software Engineer full time/Co-op/intern roles based in USA starting from May 2024.
 
 ## Skills
 - **Certification**: AWS Certified Solutions Architect - Associate, AWS Certified Cloud Practitioner
