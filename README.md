@@ -8,11 +8,11 @@ Hello! My name is Yiwen, and I’m thrilled at the opportunity to connect with l
 - **Languages**: English (Fluent), Mandarin (Native)
 
 ## Education
-- **University of Wisconsin-Madison**
+**University of Wisconsin-Madison**
   - M.S. in Computer Science, GPA: TBD (Sept 2023 - May 2025)
-- **University of Wisconsin-Madison**
+**University of Wisconsin-Madison**
   - Certificate in Computer Science, GPA: 4.0/4.0 (Jan 2022 - Dec 2022)
-- **National Taipei University, Taipei, Taiwan**
+**National Taipei University, Taipei, Taiwan**
   - B.S. in Accountancy, GPA: 3.43/4.0 (Sept 2016 - June 2020)
     
 ## Projects
